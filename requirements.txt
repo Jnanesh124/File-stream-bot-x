@@ -1,3 +1,4 @@
+pyrogram
 pyrofork==2.3.43
 tgcrypto<=1.2.3
 aiohttp<=3.8.1
